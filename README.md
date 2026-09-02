@@ -2,7 +2,7 @@
 
 🎯 **Business Analyst | Data Analyst | Data Analytics Enthusiast**
 
-I am a results-driven **Business Analyst with 2.5+ years of experience** in the **UK Healthcare domain**, passionate about turning data into meaningful insights. I enjoy working with data, writing queries, automating tasks, and building dashboards that help businesses make better decisions.
+I am a results-driven **Business Analyst with 3 years of experience** in the **UK Healthcare domain**, passionate about turning data into meaningful insights. I enjoy working with data, writing queries, automating tasks, and building dashboards that help businesses make better decisions.
 
 This GitHub repository showcases my **hands-on projects**, created to strengthen my analytics skill set and demonstrate real-world problem solving.
 
